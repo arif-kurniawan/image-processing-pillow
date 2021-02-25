@@ -1,2 +1,2 @@
-# image-processing-pillow
+#Using Pillow
 Image Processing using Pillow
